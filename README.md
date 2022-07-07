@@ -1,1 +1,4 @@
-# Visuzalization_London_Bus_Safety
+# Short Description
+This repository has been created to showcase information visualization project about visualizing london bus safety
+# Dataset
+THe data set has been taken from the following source <a href="https://data.world/makeovermonday/2018w51</a>
